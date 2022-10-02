@@ -1,8 +1,5 @@
 package at.ac.fhcampuswien;
 
-import org.graalvm.compiler.serviceprovider.IsolateUtil;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class App {
